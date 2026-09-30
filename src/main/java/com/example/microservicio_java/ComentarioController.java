@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.microservicio_java;
 
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.*;
